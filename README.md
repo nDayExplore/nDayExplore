@@ -10,23 +10,23 @@ We are dedicated to the development and support of cybersecurity products and se
 
 1. Overview
 
-nDay Explore helps you quickly find and detect vulnerabilities in your most critical assets. You can start using it for free, and upgrade if needed to enable cloud scanning and other features.
+   nDay Explore helps you quickly find and detect vulnerabilities in your most critical assets. You can start using it for free, and upgrade if needed to enable cloud scanning and other features.
 
 2. Introduction
 
-In the ["About Us"](https://www.nday.pro/aboutus) section on our official website., you can learn all about nDay Explore and our tools.
+   In the ["About Us"](https://www.nday.pro/aboutus) section on our official website., you can learn all about nDay Explore and our tools.
 
 3. Asset Queries
 
-You can conduct massive asset queries with just a few steps.
+   You can conduct massive asset queries with just a few steps.
 
-5. Features
+4. Features
 
-We offer precise queries for IP/Domain, Subdomain, and Fingerprint, and support task scanning to help you quickly analyze website information and security status. Additionally, we utilize the excellent community-driven open-source product Nuclei for rapid scanning. Our database features over 100,000 precise POC templates to meet your customization needs.
+   We offer precise queries for IP/Domain, Subdomain, and Fingerprint, and support task scanning to help you quickly analyze website information and security status. Additionally, we utilize the excellent community-driven open-source product Nuclei for rapid scanning. Our database features over 100,000 precise POC templates to meet your customization needs.
 
-6. Support
-
-Need help? We provide support on GitHub and Telegram—feel free to reach out and join our community!
+5. Support
+---
+   Need help? We provide support on GitHub and Telegram—feel free to reach out and join our community!
 
 ### Contact Us
 
